@@ -20,3 +20,35 @@ if gradeA == true
 }else{
     print("I'm not so sure about coding in Swift")
 }
+//Part 5
+//Problem set 1:
+var a = 5
+var b = 10
+b > a
+if (b < a) == false{
+    print("This is incorrect")
+}else{
+    print("This is correct")
+}
+
+//Problem set 2:
+var sstring1 = "String1"
+var sstring2 = "String2"
+sstring1 = sstring2
+if sstring1 == sstring2{
+    print("String1," + "String2")
+}
+
+//Problem set 3:
+var boolean1 = false
+var boolean2 = true
+if boolean1 == false{
+    print("Wrong")
+}else{
+    print("Right")
+}
+
+
+
+
+
